@@ -1,5 +1,5 @@
-This is User A's TestRepo
-Hello from User B
+User A wants THIS version
+User A modifies B's line
 User A merges User B's work
 User A merges User B's work
 User B's simultaneous change
